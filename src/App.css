@@ -1,9 +1,6 @@
-#root {
-  margin: 0 auto;
-  text-align: center;
-}
 
-.main-content {
-min-height: calc(100vh - 134.278px);
+
+.main-content{
+min-height: calc(100vh - 150px);
 
 }
